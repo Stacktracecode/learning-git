@@ -1,1 +1,1 @@
-# learning-git
+# Git and Github Course
